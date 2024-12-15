@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\TaiLieu_2024_2025\\Web\\Bai2\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\reponsitory\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\reponsitory\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\reponsitory\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\reponsitory\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\reponsitory\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\reponsitory\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|e:\\tailieu_2024_2025\\.net\\shopping_toturial\\shopping_toturial\\shopping_toturial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8736C27F-7529-49C6-8A0E-BF7D308ACA6E}|Shopping_Toturial\\Shopping_Toturial.csproj|solutionrelative:shopping_toturial\\shopping_toturial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 345,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\Web\\Bai2\\index.js",
+              "RelativeDocumentMoniker": "..\\..\\Web\\Bai2\\index.js",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\Web\\Bai2\\index.js",
+              "RelativeToolTip": "..\\..\\Web\\Bai2\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-14T02:54:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:01:59.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Reponsitory\\SeedData.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Reponsitory\\SeedData.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Reponsitory\\SeedData.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Reponsitory\\SeedData.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:52:06.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Reponsitory\\BrandService.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Reponsitory\\BrandService.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Reponsitory\\BrandService.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Reponsitory\\BrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:40:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Program.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Program.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAABQvR8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:25:30.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Models\\BrandModel.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Models\\BrandModel.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:16:56.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\appsettings.json",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\appsettings.json",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\appsettings.json",
+              "RelativeToolTip": "Shopping_Toturial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T14:25:25.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Reponsitory\\DataContext.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Reponsitory\\DataContext.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Reponsitory\\DataContext.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Reponsitory\\DataContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:26:30.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\appsettings.Development.json",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\appsettings.Development.json",
+              "RelativeToolTip": "Shopping_Toturial\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T11:03:26.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Models\\CategoryModel.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:02:06.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Models\\ProductModel.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:11:02.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shopping_Toturial.csproj",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Shopping_Toturial.csproj",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Shopping_Toturial.csproj",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Shopping_Toturial.csproj",
+              "RelativeToolTip": "Shopping_Toturial\\Shopping_Toturial.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T14:39:34.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shopping_Toturial\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shopping_Toturial\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:34:49.317Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 15,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
