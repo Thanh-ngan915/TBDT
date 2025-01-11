@@ -1,6 +1,48 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-Product Details
-@{
-}
+﻿<div class="row">
+				<div class="col-sm-3">
+					@Html.Partial("_SideBarPatial")
+				</div>
+				
+				<div class="col-sm-9 padding-right">
+					<div class="product-details"><!--product-details-->
+						<div class="col-sm-5">
+							<div class="view-product">
+								<img src="../images/@Model.Images" alt="anh san pham" width="100%"/>
+							</div>
+							<div id="similar-product" class="carousel slide" data-ride="carousel">
+
+								<!-- Controls -->
+								<a class="left item-control" href="#similar-product" data-slide="prev">
+									<i class="fa fa-angle-left"></i>
+								</a>
+								<a class="right item-control" href="#similar-product" data-slide="next">
+									<i class="fa fa-angle-right"></i>
+								</a>
+							</div>
+
+						</div>
+						<div class="col-sm-7">
+							<div class="product-information"><!--/product-information-->
+								<h2>@Model.Name</h2>
+								<span>
+									<span>@Model.Price.ToString("#, ##0đ")</span>
+									<label>Quantity: 1 </label>
+									<input type="text" value="3" />
+									<button type="button" class="btn btn-fefault cart">
+										<i class="fa fa-shopping-cart"></i>
+										Add to cart
+									</button>
+								</span>
+								<p><b>Availability:</b> In Stock</p>
+								<p><b>Condition:</b> New</p>
+								<p><b>Brand:</b> @Model.Brand.Name</p>
+								<p><b>Category:</b> @Model.Category.Name</p>
+								<a href=""><img src="images/product-details/share.png" class="share img-responsive"  alt="" /></a>
+							</div><!--/product-information-->
+						</div>
+					</div><!--/product-details-->
+					
+					
+					
+				</div>
+				</div>

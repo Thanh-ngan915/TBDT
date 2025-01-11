@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Shopping_Toturial.csproj": {}
+    "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\Shopping_Toturial.csproj": {}
   },
   "projects": {
-    "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Shopping_Toturial.csproj": {
+    "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\Shopping_Toturial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Shopping_Toturial.csproj",
+        "projectUniqueName": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\Shopping_Toturial.csproj",
         "projectName": "Shopping_Toturial",
-        "projectPath": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\Shopping_Toturial.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\obj\\",
+        "projectPath": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\Shopping_Toturial.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -60,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
@@ -85,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

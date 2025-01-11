@@ -1,307 +1,523 @@
 {
   "Files": [
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Toturial.bundle.scp.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Toturial.bundle.scp.css",
       "PackagePath": "staticwebassets\\Shopping_Toturial.bundle.scp.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\css\\animate.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\Media\\products\\1ec65021-e502-44a9-b324-96cbfa6880e4_lien-he-banner.jpg",
+      "PackagePath": "staticwebassets\\Media\\products\\1ec65021-e502-44a9-b324-96cbfa6880e4_lien-he-banner.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\Media\\products\\607692ed-2746-4668-a0d0-1bc4ec386519_2.jpg",
+      "PackagePath": "staticwebassets\\Media\\products\\607692ed-2746-4668-a0d0-1bc4ec386519_2.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\Media\\products\\8cda3f09-db8f-4cf0-9940-b8249e432ec8_2.jpg",
+      "PackagePath": "staticwebassets\\Media\\products\\8cda3f09-db8f-4cf0-9940-b8249e432ec8_2.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\backend\\js\\tite.js",
+      "PackagePath": "staticwebassets\\backend\\js\\tite.js"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\css\\main.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\css\\prettyPhoto.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\css\\prettyPhoto.css",
       "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\css\\price-range.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\css\\price-range.css",
       "PackagePath": "staticwebassets\\css\\price-range.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\css\\responsive.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\favicon.ico",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\images\\gallery1.jpg",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\airpods-max.jpg",
+      "PackagePath": "staticwebassets\\images\\airpods-max.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\airpods-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\airpods-pro.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\apple-homepod-mini.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-homepod-mini.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\apple-homepod.jpg",
+      "PackagePath": "staticwebassets\\images\\apple-homepod.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\dell-ae715.jpg",
+      "PackagePath": "staticwebassets\\images\\dell-ae715.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\dell-inspiron-14.jpg",
+      "PackagePath": "staticwebassets\\images\\dell-inspiron-14.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\dell-xps-15.jpg",
+      "PackagePath": "staticwebassets\\images\\dell-xps-15.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\find-x5-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\find-x5-pro.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\galaxy-buds-live.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-buds-live.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\galaxy-buds-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-buds-pro.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\galaxy-s22-ultra.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-s22-ultra.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\galaxy-z-flip-3.jpg",
+      "PackagePath": "staticwebassets\\images\\galaxy-z-flip-3.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\gallery1.jpg",
       "PackagePath": "staticwebassets\\images\\gallery1.jpg"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\hp-spectre-x360.jpg",
+      "PackagePath": "staticwebassets\\images\\hp-spectre-x360.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\iphone-13.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-13.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\iphone-14-pro.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-14-pro.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-nanocell-4k-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-nanocell-4k-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-oled65cxpua.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-oled65cxpua.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-tone-free-fn6.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-tone-free-fn6.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-tone-free-fn7.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-tone-free-fn7.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-un7300puf-4k-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-un7300puf-4k-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-v70-thinq.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-v70-thinq.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-velvet-2.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-velvet-2.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\lg-xboom-go-pl7.jpg",
+      "PackagePath": "staticwebassets\\images\\lg-xboom-go-pl7.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\macbook-air-m2.jpg",
+      "PackagePath": "staticwebassets\\images\\macbook-air-m2.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\macbook-pro-16.jpg",
+      "PackagePath": "staticwebassets\\images\\macbook-pro-16.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\oppo-enco-x.jpg",
+      "PackagePath": "staticwebassets\\images\\oppo-enco-x.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\oppo-sonica.jpg",
+      "PackagePath": "staticwebassets\\images\\oppo-sonica.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\predator-helios-300.jpg",
+      "PackagePath": "staticwebassets\\images\\predator-helios-300.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\rog-zephyrus-g14.jpg",
+      "PackagePath": "staticwebassets\\images\\rog-zephyrus-g14.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\samsung-crystal-uhd-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-crystal-uhd-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\samsung-hw-q800a.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-hw-q800a.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\samsung-hw-q950a.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-hw-q950a.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\samsung-qled-4k-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-qled-4k-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\samsung-the-frame-4k-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-the-frame-4k-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\sony-a8h-oled-4k-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\sony-a8h-oled-4k-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\sony-bravia-oled-4k.jpg",
+      "PackagePath": "staticwebassets\\images\\sony-bravia-oled-4k.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\sony-srs-ra5000.jpg",
+      "PackagePath": "staticwebassets\\images\\sony-srs-ra5000.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\sony-srs-xb43.jpg",
+      "PackagePath": "staticwebassets\\images\\sony-srs-xb43.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\sony-x800h-4k-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\sony-x800h-4k-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\sony-x90j-4k-tv.jpg",
+      "PackagePath": "staticwebassets\\images\\sony-x90j-4k-tv.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\thinkpad-x1-carbon.jpg",
+      "PackagePath": "staticwebassets\\images\\thinkpad-x1-carbon.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\vivo-tws-2.jpg",
+      "PackagePath": "staticwebassets\\images\\vivo-tws-2.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\vivo-v20.jpg",
+      "PackagePath": "staticwebassets\\images\\vivo-v20.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\vivo-v23-5g.jpg",
+      "PackagePath": "staticwebassets\\images\\vivo-v23-5g.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\wf-1000xm3.jpg",
+      "PackagePath": "staticwebassets\\images\\wf-1000xm3.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\wh-1000xm4.jpg",
+      "PackagePath": "staticwebassets\\images\\wh-1000xm4.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\xperia-10-iii.jpg",
+      "PackagePath": "staticwebassets\\images\\xperia-10-iii.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\xperia-5-iii.jpg",
+      "PackagePath": "staticwebassets\\images\\xperia-5-iii.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\yoga-9i.jpg",
+      "PackagePath": "staticwebassets\\images\\yoga-9i.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\images\\zenbook-13.jpg",
+      "PackagePath": "staticwebassets\\images\\zenbook-13.jpg"
+    },
+    {
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\contact.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\gmaps.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\gmaps.js",
       "PackagePath": "staticwebassets\\js\\gmaps.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\html5shiv.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\html5shiv.js",
       "PackagePath": "staticwebassets\\js\\html5shiv.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\jquery.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\jquery.prettyPhoto.js",
       "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\main.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\js\\price-range.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\js\\price-range.js",
       "PackagePath": "staticwebassets\\js\\price-range.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\TaiLieu_2024_2025\\.Net\\Shopping_Toturial\\Shopping_Toturial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\CacPhienBanDoAnNet\\Shopping_Toturial_user\\Shopping_Toturial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
